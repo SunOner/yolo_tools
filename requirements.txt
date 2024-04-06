@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+Pillow
+moviepy
+discord.py
+numpy
