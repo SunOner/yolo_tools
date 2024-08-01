@@ -21,7 +21,7 @@ AI_model = 'models/sunxds_0.4.1.engine'
 AI_verbose = False
 AI_image_size = 480
 AI_device = 0
-AI_classes = range(9) # use raw array [0, 1, 2, 3, 4, 5, 6, 7, 8] or range(max_model_classes)
+AI_classes = range(11) # use raw array [0, 1, 2, 3, 4, 5, 6, 7, 8] or range(max_model_classes)
 AI_conf = 0.20
 
 app_workers = 4 # max thread workers
