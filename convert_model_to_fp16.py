@@ -1,3 +1,5 @@
+# pip install onnx onnxconverter-common
+
 import onnx
 from onnxconverter_common import float16
 
